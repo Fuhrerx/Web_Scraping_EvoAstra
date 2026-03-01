@@ -14,7 +14,6 @@ A web scraping project that extracts remote job data from the RemoteOK API, perf
 - Analysis and Visualizations
 - Output Files
 - Technologies Used
-- License
 
 ## Overview
 
@@ -49,6 +48,8 @@ Web_Scraping_EvoAstra/
 │   ├── skill_frequency_comparison.png
 │   ├── top_job_titles.png
 │   └── top_skills.png
+├── Reports/
+│   └── Web Scraping Project.pdf
 ├── Web_Scraping/
 │   └── web_scraping.ipynb
 ├── .gitignore
@@ -163,11 +164,3 @@ The project generates several visualizations:
 - **Matplotlib** - Data visualization library
 - **Seaborn** - Statistical data visualization
 - **Jupyter Notebook** - Interactive computing environment
-
-## License
-
-This project is licensed under the terms included in the LICENSE file.
-
----
-
-Created by EvoAstra - Web Scraping and Data Analysis Project
